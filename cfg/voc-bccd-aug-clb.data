@@ -1,0 +1,5 @@
+classes= 3
+train  = /mnt/d/docker_data/data/BCCD/augmented/traindar.txt
+valid  = /mnt/d/docker_data/data/BCCD/augmented/valdar.txt
+names = data/bccd.names
+backup = backup/
