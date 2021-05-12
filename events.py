@@ -1,5 +1,7 @@
 from watchdog.events import FileSystemEventHandler
 import os
+import stat
+import subprocess
 
 class FileSystemEvent(FileSystemEventHandler):
 
