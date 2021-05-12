@@ -2,7 +2,7 @@ import sys
 import time
 
 from watchdog.observers import Observer
-from .events import FileSystemEvent
+from events import FileSystemEvent
 
 class ChangesWatcher:
     def __init__(self, src_path):
