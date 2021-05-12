@@ -2,7 +2,6 @@
 """
 Python 3 wrapper for identifying objects in images
 
-
 Requires DLL compilation
 
 Both the GPU and no-GPU version should be compiled; the no-GPU version should be renamed "yolo_cpp_dll_nogpu.dll".

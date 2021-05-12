@@ -9,4 +9,4 @@
 
 git add -A
 git commit -m "from colab"
-git push origin master
+git push origin main
