@@ -1,4 +1,4 @@
 classes= 3
-valid  = /mnt/d/docker_data/data/BCCD/ImageSets/Main/testdar.txt
-names = data/bccd.names
-backup = backup/
+valid  = /content/drive/MyDrive/BCCD/testdar.txt
+names = /content/drive/MyDrive/darknet-bck/bccd.names
+backup = /content/drive/MyDrive/darknet-bck/
