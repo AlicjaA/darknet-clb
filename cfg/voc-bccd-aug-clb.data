@@ -1,4 +1,4 @@
-classes= 3
+classes= 1
 train  = /content/drive/MyDrive/augmented4/traindar.txt
 valid  = /content/drive/MyDrive/augmented4/valdar.txt
 names = /content/drive/MyDrive/darknet-bck/bccd.names
